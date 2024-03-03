@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Hiro Miko Reyes</h1>
 
-CS & Music @ UofT
+Computer Science & Music @ UofT
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hiro-miko-reyes-29b22b238) 
 
