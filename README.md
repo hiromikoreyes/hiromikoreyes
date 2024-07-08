@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm <h6>Hiro</h6> Miko Reyes</h1>
+<h1 align="center">Hello 👋, I'm Miko Reyes</h1>
 
 Computer Science & Music @ UofT
 
